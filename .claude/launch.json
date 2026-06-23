@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "arpha-web",
+      "runtimeExecutable": "/bin/sh",
+      "runtimeArgs": ["-c", "cd '/Users/lawrenceyen/Library/CloudStorage/GoogleDrive-lawrenceyen@arpha.com/Shared drives/Internal Arpha Marketing/Claude Arpha Website' && npm run dev"],
+      "port": 3000
+    }
+  ]
+}
